@@ -9,6 +9,5 @@ Used Volley Library for acessing Api and Picasso for image insertion.
 <img src="https://user-images.githubusercontent.com/87039911/199421329-218f46a3-9956-432c-b3d1-9738991b4938.jpg" height="500px" width="245px">
 </div>
 
-#
-https://user-images.githubusercontent.com/87039911/199423732-b84c6919-c834-416e-8be0-895e9e90994f.mp4
-
+# Demo Video
+https://user-images.githubusercontent.com/87039911/199424619-ad16efe5-61bb-41bb-8bc2-c71101c01a4f.mp4
