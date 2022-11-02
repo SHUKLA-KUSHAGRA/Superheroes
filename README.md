@@ -1,2 +1,2 @@
 # Superheroes
-Android app which calls superhero api which genereate random superheroes and also tells about their attributes
+A simple UI using recycler view showing 20 characters at once and a refresh button which refreshes the entry of superhero data
