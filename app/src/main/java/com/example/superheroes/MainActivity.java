@@ -95,8 +95,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public Map<String, String> getHeaders() throws AuthFailureError {
                 Map<String, String> params = new HashMap<>();
-                params.put("X-RapidAPI-Host", "superhero-search.p.rapidapi.com");
-                params.put("X-RapidAPI-Key", "d2b52370c3msh581d2f0c63f20c5p1c5db7jsna4ccbd4f7b55");
+                params.put("X-RapidAPI-Host", "Url");
+                params.put("X-RapidAPI-Key", "Rapid Api Key");
                 return params;
             }
         };
