@@ -1,6 +1,8 @@
 # Superheroes
-A simple UI using recycler view showing 20 characters at once and a refresh button which refreshes the entry of superhero data.
-Used Volley Library for acessing Api and Picasso for image insertion.
+<li> A simple UI using recycler view showing 20 characters at once and a refresh button which refreshes the entry of superhero data.
+<li> Used Java For Android
+<li> Used Volley Library for acessing Api and Picasso for image insertion.
+
 # Demo Images 
 <div>
 <img src="https://user-images.githubusercontent.com/87039911/199420753-85c2d13e-8de4-48ec-8cd7-4b2d6b9e3ce9.jpg" height="500px" width="245px">
